@@ -46,7 +46,7 @@ načteny z lokálního souboru.
 * m) Uložení všech údajů do SQL databáze.
 * n) Vymazání vybrané osoby z SQL databáze.
 * o) Načtení vybrané osoby SQL databáze.
-* 
+ 
 Program musí dále obsahovat následující:
 * Efektivní využití základních vlastností OOP.
 * Alespoň jednu abstraktní třídu nebo rozhraní
